@@ -23,5 +23,12 @@ This tool does **not** provide medical advice.
 It is intended for educational and informational purposes only.
 Always consult a qualified healthcare professional for medical decisions.
 
+ai-agent
+healthcare-ai
+gradio
+nlp
+huggingface
+portfolio-project
+
 
 
